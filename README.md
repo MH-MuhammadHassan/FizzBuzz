@@ -16,6 +16,3 @@ This Dart program generates the FizzBuzz sequence for a user-specified range of 
 - Accepts dynamic ranges through user input.
 - Implements the FizzBuzz logic with clear and structured output.
 
-## Example
-
-If the user enters the range `1 to 15`, the program will output:
